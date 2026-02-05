@@ -1,6 +1,7 @@
 ## 1. Instala las dependencias
+```bash
 pip install pyautogui pygetwindow pytweening mouseinfo pyinstaller
-
+```
 ## 2. Uso de interfaz gráfica (sin consola)
 
 Como ahora tenemos una interfaz gráfica, no queremos que se abra una ventana de consola negra detrás de nuestra aplicación.
